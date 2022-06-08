@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tetrisc.cpp">
+    <ClCompile Include="tetrisc .cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
